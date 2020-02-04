@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maxva_dv8oke8\\Projects\\C#_Projects\\Server_Assignment\\Server_Assignment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maxva_dv8oke8\\Projects\\C#_Projects\\Server_Assignment\\Server_Assignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maxva_dv8oke8\\Projects\\C#_Projects\\Server_Assignment\\Server_Assignment.csproj",
+        "projectName": "Server_Assignment",
+        "projectPath": "C:\\Users\\maxva_dv8oke8\\Projects\\C#_Projects\\Server_Assignment\\Server_Assignment.csproj",
+        "packagesPath": "C:\\Users\\maxva_dv8oke8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxva_dv8oke8\\Projects\\C#_Projects\\Server_Assignment\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maxva_dv8oke8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

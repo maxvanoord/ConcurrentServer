@@ -1,0 +1,11 @@
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\bin\Debug\netcoreapp2.1\Server_Assignment.deps.json
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\bin\Debug\netcoreapp2.1\Server_Assignment.runtimeconfig.json
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\bin\Debug\netcoreapp2.1\Server_Assignment.runtimeconfig.dev.json
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\bin\Debug\netcoreapp2.1\Server_Assignment.dll
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\bin\Debug\netcoreapp2.1\Server_Assignment.pdb
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\obj\Debug\netcoreapp2.1\Server_Assignment.csprojAssemblyReference.cache
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\obj\Debug\netcoreapp2.1\Server_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\obj\Debug\netcoreapp2.1\Server_Assignment.AssemblyInfoInputs.cache
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\obj\Debug\netcoreapp2.1\Server_Assignment.AssemblyInfo.cs
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\obj\Debug\netcoreapp2.1\Server_Assignment.dll
+C:\Users\maxva_dv8oke8\Projects\C#_Projects\Server_Assignment\obj\Debug\netcoreapp2.1\Server_Assignment.pdb
